@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Uxie](https://uxie.vercel.app)
 
 [![thumbnail](./public/thumbnail.png)](https://www.youtube.com/watch?v=m97zcPWSceU)
@@ -83,3 +84,6 @@ I'd love for you to give Uxie a try and share your valuable [feedback](https://u
 ### Pinecone Setting up guide
 
 - Create index => Dimensions = 768, Metric = Cosine
+=======
+# Uxie
+>>>>>>> fb2222c88939ec911ed2ecd19ffdb845a0553aaf
