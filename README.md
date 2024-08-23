@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [Uxie](https://uxie.vercel.app)
 
 [![thumbnail](./public/thumbnail.png)](https://www.youtube.com/watch?v=m97zcPWSceU)
